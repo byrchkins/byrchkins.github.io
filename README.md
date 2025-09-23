@@ -5,7 +5,3 @@ Incoming Site
 <p> Two images.
 <p> Two headings.
 <p> One link to another webpage.
-
-
-
-<p> ![alt text](farp,small,wall_texture,product,750x1000.jpg) </p>
