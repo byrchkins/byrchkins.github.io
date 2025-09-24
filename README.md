@@ -5,3 +5,4 @@ Incoming Site
 <p> Two images.
 <p> Two headings.
 <p> One link to another webpage.
+<img> 
