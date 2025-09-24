@@ -5,4 +5,4 @@
 <p> Two images.
 <p> Two headings.
 <p> One link to another webpage.
-<p> <img src="farp,small,wall_texture,product,750x1000.jpg" width="750" height="500"> </p>
+<p> <img src="farp,small,wall_texture,product,750x1000.jpg" width="375" height="500"> </p>
