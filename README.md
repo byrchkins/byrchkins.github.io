@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<head>
-<style>
-  .banner {
-      background: url('BackgroundImage1919x364.png') no-repeat center top;
-      background-size: cover;
-      padding: 150px 20px;
-  }
-</style>
-</head>
-
 <p align="center">
   <img src="BackgroundImage1919x364.png" alt="Banner" width="1919">
 </p>
