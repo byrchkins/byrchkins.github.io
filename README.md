@@ -7,6 +7,10 @@
 
 <h1> Usage of Light </h1>
   <img src="Lighting840x749">
+People typically assume light to be 'good' and are naturally drawn to it.
+
+For instance, in the above image of a backrooms inspired level, the left hand side gives no visible objective to get to. 
+Meanwhile, the right hand side shows a clear goal to get to via the contrast of light and dark.
 
 <h1> Universal Color Theory </h1>
 <p> In Video Games, </p>
