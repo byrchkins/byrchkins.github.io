@@ -1,6 +1,6 @@
 <div style="background: url('BackgroundImage1919x364.png') no-repeat center top; 
             background-size: cover; 
-            height: 150px; 
+            height: 200px; 
             display: flex; 
             flex-direction: column; 
             justify-content: center; 
