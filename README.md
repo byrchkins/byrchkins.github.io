@@ -28,7 +28,7 @@ The light is a tool that can be harnessed. The simplest way to bring attention t
 
 <h2> Cardinal Colors </h2>
 
- <img src="Screenshot 2025-09-29 021330.png">
+ <img src="Screenshot 2025-09-29 021330.png" width="1919">
 <p> <i>Above 
             </i> </p>
 <p> In video games, color is one of the strongest tools for guiding players and in order to wield it properly, you must learn the language people have built over time. In particular, yellow is one of the most important cardinal color, often marking points of interest, breakable crates, or climbable ledges. By keeping these “cardinal” colors consistent, you can subtly direct players without text, arrows, or dialogue. </p>
