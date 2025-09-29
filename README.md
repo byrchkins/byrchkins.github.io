@@ -1,2 +1,2 @@
-# byrchkins.github.io
-Guiding Players Through Custom Builds
+# Guiding Players In Video Games
+(Visualized in Minecraft)
