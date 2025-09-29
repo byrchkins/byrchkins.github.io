@@ -12,6 +12,6 @@ The light is a tool that can be harnessed. The simplest way to bring attention t
 For instance, in the above image of a backrooms inspired level, the left hand side gives no visible objective to get to. 
 Meanwhile, the right hand side shows a clear goal to get to via the contrast of light and dark.
 
-<h2> Universal Color Theory </h2>
+<h2> Cardinal Colors </h2>
 <p> In Video Games, </p>
 <p><a href="https://www.gamedeveloper.com/design/color-in-games-an-in-depth-look-at-one-of-game-design-s-most-useful-tools">Check This Article Out For More In Depth Color Theory</a></p>
