@@ -23,7 +23,7 @@
 <h2> Usage of Light </h2>
 
   <img src="Lighting840x749">
-  <p> <i>_Above are two images of a backrooms inspired level. How does lighting affect your navigational intuition?_</i> </p>
+  <p> <i>Above are two images of a backrooms inspired level. How does lighting affect your navigational intuition?</i> </p>
 The light is a tool that can be harnessed. The simplest way to bring attention to a objective is by contrasting a dark enviornment with a small light. Much like moths, people are drawn to the light which should make lighting choice a calculated decision to give players the ability to not only see, but navigate their surroundings effectively.
 
 For instance, in the above image of a backrooms inspired level, the left hand side gives no visible objective to get to. 
