@@ -7,7 +7,7 @@
 
 <h1> Usage of Light </h1>
 <p align="center>
-  <img src="Lighting840x749" width="840" height="749">
+  <img src="Lighting840x749"> <width="840" height="749">
 </p>
 
 <h1> Universal Color Theory </h1>
