@@ -1,3 +1,6 @@
+<div style="background-color: #333; color: white; padding: 20px;">
+
+
 <div style="background: url('BackgroundImage1919x364.png') no-repeat center top; 
             background-size: cover; 
             height: 200px; 
@@ -29,3 +32,4 @@ Meanwhile, the right hand side shows a clear goal to get to via the contrast of 
 <h2> Cardinal Colors </h2>
 <p> In Video Games, </p>
 <p><a href="https://www.gamedeveloper.com/design/color-in-games-an-in-depth-look-at-one-of-game-design-s-most-useful-tools">Check This Article Out For More In Depth Color Theory</a></p>
+</div>
