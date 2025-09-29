@@ -2,7 +2,7 @@
 <head>
 <style>
   .banner {
-      background: url('IMAGE') no-repeat center top;
+      background: url('BackgroundImage1919x364.png') no-repeat center top;
       background-size: cover;
       padding: 150px 20px;
   }
