@@ -8,9 +8,9 @@
 <h2> Usage of Light </h2>
 
   <img src="Lighting840x749">
-  <p> _Above is an image of a backrooms inspired level. Could a player almost always know where to go in the left hand image?_ </p>
+  <p> <i>Above is an image of a backrooms inspired level. Could a player almost always know where to go in the left hand image?</i> </p>
 The light is a tool that can be harnessed. The simplest way to bring attention to a objective is by contrasting a dark enviornment with a small light.
-<p> <i>Much like moths, people are drawn to the light which should make lighting choice a calculated decision to give players the ability to not only see, but navigate their surroundings effectively.</i> </p>
+<p> Much like moths, people are drawn to the light which should make lighting choice a calculated decision to give players the ability to not only see, but navigate their surroundings effectively. </p>
 
 For instance, in the above image of a backrooms inspired level, the left hand side gives no visible objective to get to. 
 Meanwhile, the right hand side shows a clear goal to get to via the contrast of light and dark.
