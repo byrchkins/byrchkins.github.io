@@ -1,4 +1,3 @@
-![Banner](BackgroundImage875x200)
 <p align="center">
   <img src="BackgroundImage875x200" alt="Banner" width="875">
 </p>
