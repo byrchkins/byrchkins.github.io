@@ -27,8 +27,9 @@
 The light is a tool that can be harnessed. The simplest way to bring attention to a objective is by contrasting a dark enviornment with a small light. Much like moths, people are drawn to the light which should make lighting choice a calculated decision to give players the ability to not only see, but navigate their surroundings effectively. 
 
 <h2> Cardinal Colors </h2>
-<p> In video games, color is one of the strongest tools for guiding players and comes with its own language people have built over time. In order to wield it properly,</p>
 
-<p>By keeping these “cardinal” colors consistent, you can subtly direct players without text, arrows, or dialogue. </p>
+<p> <i>Above 
+            </i> </p>
+<p> In video games, color is one of the strongest tools for guiding players and in order to wield it properly, you must learn the language people have built over time. In particular, yellow is one of the most important cardinal color, often marking points of interest, breakable crates, or climbable ledges. By keeping these “cardinal” colors consistent, you can subtly direct players without text, arrows, or dialogue. </p>
 <p><a href="https://www.gamedeveloper.com/design/color-in-games-an-in-depth-look-at-one-of-game-design-s-most-useful-tools">Check This Article Out For More In Depth Color Theory</a></p>
 </div>
