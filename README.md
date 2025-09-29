@@ -29,7 +29,7 @@ The light is a tool that can be harnessed. The simplest way to bring attention t
 <h2> Cardinal Colors </h2>
 
  <img src="Screenshot 2025-09-29 021330.png" width="944">
-<p> <i>Above shows two examples of parkour that branches off into multiple rooms. </i> </p>
+<p> <i>Above shows two examples of easily recognizable parkour opportunities inside and across buildings. </i> </p>
 <p> In video games, color is one of the strongest tools for guiding players and in order to wield it properly, you must learn the language people have built over time. In particular, yellow is one of the most important cardinal color, often marking points of interest, breakable crates, or climbable ledges. By keeping these “cardinal” colors consistent, you can subtly direct players without text, arrows, or dialogue. </p>
 <p><a href="https://www.gamedeveloper.com/design/color-in-games-an-in-depth-look-at-one-of-game-design-s-most-useful-tools">Check This Article Out For More In Depth Color Theory</a></p>
 </div>
