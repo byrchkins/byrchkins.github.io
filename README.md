@@ -1,6 +1,6 @@
 <div style="background: url('BackgroundImage1919x364.png') no-repeat center top; 
             background-size: cover; 
-            height: 364px; 
+            height: 150px; 
             display: flex; 
             flex-direction: column; 
             justify-content: center; 
@@ -14,11 +14,7 @@
 
 </div>
 
-<p align="center">
-  <img src="BackgroundImage1919x364.png" alt="Banner" width="1919">
-</p>
 <h1> 2 Tips for Guiding Players In Open Worlds </h1>
-<p> (Visualized in Minecraft) </p>
 <p> Here are two simple tips around map/level designing that can enhance a player's experience playing games that encourage exploration. </p>
 
 <h2> Usage of Light </h2>
