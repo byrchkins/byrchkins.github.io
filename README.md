@@ -1,3 +1,19 @@
+<div style="background: url('BackgroundImage1919x364.png') no-repeat center top; 
+            background-size: cover; 
+            height: 364px; 
+            display: flex; 
+            flex-direction: column; 
+            justify-content: center; 
+            align-items: center; 
+            text-align: center; 
+            color: white; 
+            text-shadow: 2px 2px 5px rgba(0,0,0,0.6);">
+
+  <h1>Guiding Players in Video Games</h1>
+  <p>(Visualized in Minecraft)</p>
+
+</div>
+
 <p align="center">
   <img src="BackgroundImage1919x364.png" alt="Banner" width="1919">
 </p>
