@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="BackgroundImage875x200" alt="Banner" width="875">
+  <img src="BackgroundImage1919x364" alt="Banner" width="1919">
 </p>
 # 2 Tips for Guiding Players In Video Games
 (Visualized in Minecraft)
