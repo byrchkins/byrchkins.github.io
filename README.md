@@ -14,4 +14,4 @@ Meanwhile, the right hand side shows a clear goal to get to via the contrast of 
 
 <h1> Universal Color Theory </h1>
 <p> In Video Games, </p>
-<p><a href="https://www.gamedeveloper.com/design/color-in-games-an-in-depth-look-at-one-of-game-design-s-most-useful-tools">Check This Article Out For More Depth Color Theory</a></p>
+<p><a href="https://www.gamedeveloper.com/design/color-in-games-an-in-depth-look-at-one-of-game-design-s-most-useful-tools">Check This Article Out For More In Depth Color Theory</a></p>
