@@ -6,7 +6,9 @@
 <p> Here are two simple tips around map/level designing that can enhance a player's experience playing games that encourage exploration. </p>
 
 <h1> Usage of Light </h1>
-
+<p align="center>
+  <img src="Lighting840x749" width="840" height="749">
+</p>
 
 <h1> Universal Color Theory </h1>
 <p> In Video Games, </p>
